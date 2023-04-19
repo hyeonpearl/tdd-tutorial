@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Profile from './Profile';
+import Counter from './Counter';
 
 function App() {
-  return <Profile username={'hyeonpearl'} name={'최현철'} />;
+  return <Counter />;
 }
 
 export default App;
