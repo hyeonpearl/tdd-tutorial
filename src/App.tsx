@@ -1,7 +1,9 @@
 import React from 'react';
 
+import Profile from './Profile';
+
 function App() {
-  return <div>Hello World</div>;
+  return <Profile username={'hyeonpearl'} name={'최현철'} />;
 }
 
 export default App;
